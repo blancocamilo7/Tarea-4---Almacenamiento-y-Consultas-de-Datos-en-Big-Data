@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "usuario1",
+    "nombre": "Usuario 1",
+    "email": "usuario1@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario2",
+    "nombre": "Usuario 2",
+    "email": "usuario2@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario3",
+    "nombre": "Usuario 3",
+    "email": "usuario3@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario4",
+    "nombre": "Usuario 4",
+    "email": "usuario4@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario5",
+    "nombre": "Usuario 5",
+    "email": "usuario5@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario6",
+    "nombre": "Usuario 6",
+    "email": "usuario6@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario7",
+    "nombre": "Usuario 7",
+    "email": "usuario7@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario8",
+    "nombre": "Usuario 8",
+    "email": "usuario8@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario9",
+    "nombre": "Usuario 9",
+    "email": "usuario9@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario10",
+    "nombre": "Usuario 10",
+    "email": "usuario10@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario11",
+    "nombre": "Usuario 11",
+    "email": "usuario11@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario12",
+    "nombre": "Usuario 12",
+    "email": "usuario12@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario13",
+    "nombre": "Usuario 13",
+    "email": "usuario13@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario14",
+    "nombre": "Usuario 14",
+    "email": "usuario14@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario15",
+    "nombre": "Usuario 15",
+    "email": "usuario15@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario16",
+    "nombre": "Usuario 16",
+    "email": "usuario16@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario17",
+    "nombre": "Usuario 17",
+    "email": "usuario17@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario18",
+    "nombre": "Usuario 18",
+    "email": "usuario18@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario19",
+    "nombre": "Usuario 19",
+    "email": "usuario19@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario20",
+    "nombre": "Usuario 20",
+    "email": "usuario20@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario21",
+    "nombre": "Usuario 21",
+    "email": "usuario21@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario22",
+    "nombre": "Usuario 22",
+    "email": "usuario22@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario23",
+    "nombre": "Usuario 23",
+    "email": "usuario23@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario24",
+    "nombre": "Usuario 24",
+    "email": "usuario24@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario25",
+    "nombre": "Usuario 25",
+    "email": "usuario25@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario26",
+    "nombre": "Usuario 26",
+    "email": "usuario26@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario27",
+    "nombre": "Usuario 27",
+    "email": "usuario27@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario28",
+    "nombre": "Usuario 28",
+    "email": "usuario28@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario29",
+    "nombre": "Usuario 29",
+    "email": "usuario29@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario30",
+    "nombre": "Usuario 30",
+    "email": "usuario30@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario31",
+    "nombre": "Usuario 31",
+    "email": "usuario31@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario32",
+    "nombre": "Usuario 32",
+    "email": "usuario32@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario33",
+    "nombre": "Usuario 33",
+    "email": "usuario33@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario34",
+    "nombre": "Usuario 34",
+    "email": "usuario34@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario35",
+    "nombre": "Usuario 35",
+    "email": "usuario35@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario36",
+    "nombre": "Usuario 36",
+    "email": "usuario36@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario37",
+    "nombre": "Usuario 37",
+    "email": "usuario37@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario38",
+    "nombre": "Usuario 38",
+    "email": "usuario38@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario39",
+    "nombre": "Usuario 39",
+    "email": "usuario39@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario40",
+    "nombre": "Usuario 40",
+    "email": "usuario40@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario41",
+    "nombre": "Usuario 41",
+    "email": "usuario41@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario42",
+    "nombre": "Usuario 42",
+    "email": "usuario42@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario43",
+    "nombre": "Usuario 43",
+    "email": "usuario43@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario44",
+    "nombre": "Usuario 44",
+    "email": "usuario44@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario45",
+    "nombre": "Usuario 45",
+    "email": "usuario45@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario46",
+    "nombre": "Usuario 46",
+    "email": "usuario46@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario47",
+    "nombre": "Usuario 47",
+    "email": "usuario47@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario48",
+    "nombre": "Usuario 48",
+    "email": "usuario48@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario49",
+    "nombre": "Usuario 49",
+    "email": "usuario49@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario50",
+    "nombre": "Usuario 50",
+    "email": "usuario50@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario51",
+    "nombre": "Usuario 51",
+    "email": "usuario51@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario52",
+    "nombre": "Usuario 52",
+    "email": "usuario52@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario53",
+    "nombre": "Usuario 53",
+    "email": "usuario53@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario54",
+    "nombre": "Usuario 54",
+    "email": "usuario54@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario55",
+    "nombre": "Usuario 55",
+    "email": "usuario55@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario56",
+    "nombre": "Usuario 56",
+    "email": "usuario56@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario57",
+    "nombre": "Usuario 57",
+    "email": "usuario57@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario58",
+    "nombre": "Usuario 58",
+    "email": "usuario58@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario59",
+    "nombre": "Usuario 59",
+    "email": "usuario59@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario60",
+    "nombre": "Usuario 60",
+    "email": "usuario60@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario61",
+    "nombre": "Usuario 61",
+    "email": "usuario61@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario62",
+    "nombre": "Usuario 62",
+    "email": "usuario62@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario63",
+    "nombre": "Usuario 63",
+    "email": "usuario63@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario64",
+    "nombre": "Usuario 64",
+    "email": "usuario64@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario65",
+    "nombre": "Usuario 65",
+    "email": "usuario65@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario66",
+    "nombre": "Usuario 66",
+    "email": "usuario66@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario67",
+    "nombre": "Usuario 67",
+    "email": "usuario67@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario68",
+    "nombre": "Usuario 68",
+    "email": "usuario68@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario69",
+    "nombre": "Usuario 69",
+    "email": "usuario69@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario70",
+    "nombre": "Usuario 70",
+    "email": "usuario70@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario71",
+    "nombre": "Usuario 71",
+    "email": "usuario71@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario72",
+    "nombre": "Usuario 72",
+    "email": "usuario72@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario73",
+    "nombre": "Usuario 73",
+    "email": "usuario73@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario74",
+    "nombre": "Usuario 74",
+    "email": "usuario74@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario75",
+    "nombre": "Usuario 75",
+    "email": "usuario75@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario76",
+    "nombre": "Usuario 76",
+    "email": "usuario76@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario77",
+    "nombre": "Usuario 77",
+    "email": "usuario77@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario78",
+    "nombre": "Usuario 78",
+    "email": "usuario78@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario79",
+    "nombre": "Usuario 79",
+    "email": "usuario79@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario80",
+    "nombre": "Usuario 80",
+    "email": "usuario80@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario81",
+    "nombre": "Usuario 81",
+    "email": "usuario81@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario82",
+    "nombre": "Usuario 82",
+    "email": "usuario82@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario83",
+    "nombre": "Usuario 83",
+    "email": "usuario83@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario84",
+    "nombre": "Usuario 84",
+    "email": "usuario84@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario85",
+    "nombre": "Usuario 85",
+    "email": "usuario85@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario86",
+    "nombre": "Usuario 86",
+    "email": "usuario86@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario87",
+    "nombre": "Usuario 87",
+    "email": "usuario87@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario88",
+    "nombre": "Usuario 88",
+    "email": "usuario88@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario89",
+    "nombre": "Usuario 89",
+    "email": "usuario89@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario90",
+    "nombre": "Usuario 90",
+    "email": "usuario90@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario91",
+    "nombre": "Usuario 91",
+    "email": "usuario91@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario92",
+    "nombre": "Usuario 92",
+    "email": "usuario92@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario93",
+    "nombre": "Usuario 93",
+    "email": "usuario93@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario94",
+    "nombre": "Usuario 94",
+    "email": "usuario94@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario95",
+    "nombre": "Usuario 95",
+    "email": "usuario95@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario96",
+    "nombre": "Usuario 96",
+    "email": "usuario96@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario97",
+    "nombre": "Usuario 97",
+    "email": "usuario97@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario98",
+    "nombre": "Usuario 98",
+    "email": "usuario98@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario99",
+    "nombre": "Usuario 99",
+    "email": "usuario99@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  },
+  {
+    "id": "usuario100",
+    "nombre": "Usuario 100",
+    "email": "usuario100@example.com",
+    "fecha_registro": "2024-01-01",
+    "rol": "usuario",
+    "intereses": [
+      "tecnologia"
+    ],
+    "estado": "activo"
+  }
+]

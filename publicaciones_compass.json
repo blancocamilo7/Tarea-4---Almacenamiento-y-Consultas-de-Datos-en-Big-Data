@@ -1,0 +1,272 @@
+[
+  {
+    "id": "pub1",
+    "usuario_id": "usuario2",
+    "titulo": "Publicación 1",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 3
+  },
+  {
+    "id": "pub2",
+    "usuario_id": "usuario3",
+    "titulo": "Publicación 2",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 6
+  },
+  {
+    "id": "pub3",
+    "usuario_id": "usuario4",
+    "titulo": "Publicación 3",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 9
+  },
+  {
+    "id": "pub4",
+    "usuario_id": "usuario5",
+    "titulo": "Publicación 4",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 12
+  },
+  {
+    "id": "pub5",
+    "usuario_id": "usuario6",
+    "titulo": "Publicación 5",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 15
+  },
+  {
+    "id": "pub6",
+    "usuario_id": "usuario7",
+    "titulo": "Publicación 6",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 18
+  },
+  {
+    "id": "pub7",
+    "usuario_id": "usuario8",
+    "titulo": "Publicación 7",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 21
+  },
+  {
+    "id": "pub8",
+    "usuario_id": "usuario9",
+    "titulo": "Publicación 8",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 24
+  },
+  {
+    "id": "pub9",
+    "usuario_id": "usuario10",
+    "titulo": "Publicación 9",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 27
+  },
+  {
+    "id": "pub10",
+    "usuario_id": "usuario11",
+    "titulo": "Publicación 10",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 30
+  },
+  {
+    "id": "pub11",
+    "usuario_id": "usuario12",
+    "titulo": "Publicación 11",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 33
+  },
+  {
+    "id": "pub12",
+    "usuario_id": "usuario13",
+    "titulo": "Publicación 12",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 36
+  },
+  {
+    "id": "pub13",
+    "usuario_id": "usuario14",
+    "titulo": "Publicación 13",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 39
+  },
+  {
+    "id": "pub14",
+    "usuario_id": "usuario15",
+    "titulo": "Publicación 14",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 42
+  },
+  {
+    "id": "pub15",
+    "usuario_id": "usuario16",
+    "titulo": "Publicación 15",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 45
+  },
+  {
+    "id": "pub16",
+    "usuario_id": "usuario17",
+    "titulo": "Publicación 16",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 48
+  },
+  {
+    "id": "pub17",
+    "usuario_id": "usuario18",
+    "titulo": "Publicación 17",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 51
+  },
+  {
+    "id": "pub18",
+    "usuario_id": "usuario19",
+    "titulo": "Publicación 18",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 54
+  },
+  {
+    "id": "pub19",
+    "usuario_id": "usuario20",
+    "titulo": "Publicación 19",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 57
+  },
+  {
+    "id": "pub20",
+    "usuario_id": "usuario21",
+    "titulo": "Publicación 20",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 60
+  },
+  {
+    "id": "pub21",
+    "usuario_id": "usuario22",
+    "titulo": "Publicación 21",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 63
+  },
+  {
+    "id": "pub22",
+    "usuario_id": "usuario23",
+    "titulo": "Publicación 22",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 66
+  },
+  {
+    "id": "pub23",
+    "usuario_id": "usuario24",
+    "titulo": "Publicación 23",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 69
+  },
+  {
+    "id": "pub24",
+    "usuario_id": "usuario25",
+    "titulo": "Publicación 24",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 72
+  },
+  {
+    "id": "pub25",
+    "usuario_id": "usuario26",
+    "titulo": "Publicación 25",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 75
+  },
+  {
+    "id": "pub26",
+    "usuario_id": "usuario27",
+    "titulo": "Publicación 26",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 78
+  },
+  {
+    "id": "pub27",
+    "usuario_id": "usuario28",
+    "titulo": "Publicación 27",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 81
+  },
+  {
+    "id": "pub28",
+    "usuario_id": "usuario29",
+    "titulo": "Publicación 28",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 84
+  },
+  {
+    "id": "pub29",
+    "usuario_id": "usuario30",
+    "titulo": "Publicación 29",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 87
+  },
+  {
+    "id": "pub30",
+    "usuario_id": "usuario31",
+    "titulo": "Publicación 30",
+    "contenido": "Contenido de ejemplo...",
+    "fecha": "2024-02-01",
+    "categoria": "Tecnología",
+    "likes": 90
+  }
+]
